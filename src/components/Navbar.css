@@ -1,0 +1,16 @@
+nav{
+    height:30px;
+    padding:5px;    
+    background-color: blue;
+    color: white;
+    }
+     navitem{
+     display: flex;
+     justify-content: space-around;
+    }
+    
+    .topmenu{ 
+    text-decoration: none;
+    color: white;
+    }
+    

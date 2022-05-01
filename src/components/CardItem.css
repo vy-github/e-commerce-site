@@ -1,0 +1,12 @@
+
+.main-block{
+display: inline-block;
+height: 500;
+width: 200;
+background-color:aliceblue
+}
+
+img{
+    height:300px;
+    width: 300px;
+}
