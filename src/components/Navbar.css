@@ -1,16 +1,25 @@
-nav{
-    height:30px;
-    padding:5px;    
-    background-color: blue;
-    color: white;
-    }
-     navitem{
-     display: flex;
-     justify-content: space-around;
-    }
-    
-    .topmenu{ 
-    text-decoration: none;
-    color: white;
-    }
-    
+.nav-container {
+  height: 60px;
+  background-color: rgba(203, 173, 130, 0.61);
+  margin-bottom: 30px;
+}
+
+nav {
+  height: 100%;
+  padding: 5px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.navitem {
+  display: flex;
+  justify-content: space-around;
+}
+
+.topmenu {
+  text-decoration: none;
+  color: #0a57ca96;
+}
